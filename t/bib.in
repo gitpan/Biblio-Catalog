@@ -1,0 +1,167 @@
+@Article{Crusoe,
+title = {Crusoe: An approach for the new era computing},
+author = {{Miranda, Vasco Nuno Barreiro Capitão}},
+publisher = {3rd Internal Conference on Computer Architecture (ICCA'02)},
+year = {ICCA'02, January 28, 2002}}
+
+@Article{parrot,
+title = {Parrot: Some Assembly Required},
+author = {{Cozens, Simon}},
+publisher ={O'Reilly Perl.com},
+year ={September 18, 2001}}
+
+@Article{shivers,
+title = {Supporting dynamic languages on the Java virual machine},
+author = {{Shivers, Olin}},
+publisher = {MIT Artificial Intelligence Laboratory},
+year = {April 25, 1996}}
+
+@Book{JVM2,
+title = {The Java(tm) Virtual Machine Specification},
+note = {Second edition},
+author = {{Lindholm, Tim \& Yellin, Frank}}
+}
+
+@Book{Festival,
+title = {The Festival Speech Synthesis System},
+note = {Edition 1.4},
+year = 1999,
+author = {{Black, Alan W. \& Taylor, Paul \& Caley, Richard}}
+}
+
+
+@Book{SAMPA,
+key = {SAMPA},
+title = {SAMPA: computer readable phonetic alphabet (ASCII codes)},
+note = {http://www.phon.ucl.ac.uk/home/sampa/home.htm}
+}
+
+@Book{MBROLA,
+key = {MBROLA},
+title = {The MBROLA Project: Towards a Freely Available Multilingual Speech Synthesizer},
+note = {http://tcts.fpms.ac.be/synthesis/mbrola.html}
+}
+
+@Book{cata2,
+title = {Hypertext presentation of thesauri used in online searching},
+author = {{Pollard, Richard}},
+publisher = {Graduate School of Library and Information Science --- University of Tennessee}
+}
+
+@Book{cata1,
+title = {Querying, Navigating and Visualizing an Online Library Catalog},
+author = {{Veerasamy, Aravindan \& Hudson, Scott \& Navathe, Shamkant}},
+publisher = {College of Computing --- Georgia Institute of Technology}
+}
+
+@Book{jscript1,
+author = {{Danesh, Arman}},
+title = {Teach Yourself JavaScript 1.1 in a Week},
+note = {(second edition)},
+publisher = {Sams.net Publishing}}
+
+@Book{jscript2,
+author = {{Lemay, Laura \& Moncur, Michael G.}},
+title = {Laura Lemay's Web Workshop - Java Script},
+publisher = {Sams.net Publishing}
+}
+
+@Book{Ramalho,
+author ={{Ramalho, José Carlos Leite}},
+title ={Anotação Estrutural de Documentos e sua Semântica},
+publisher = {Departamento de Informática, Escola de Engenharia, Universidade do Minho},
+year = 2000 }
+
+@Book{Apache,
+author ={{Laurie, Ben \& Laurie, Peter}},
+title ={Apache: The definitive Guide},
+publisher ={{O'Reilly \& Associates, Inc.}},
+year = 1997}
+
+@Book{WebCompanion,
+author ={{Goossens, Michel \& Rahtz, Sebastian}},
+title ={The \LaTeX{} Web Companion: integrating \TeX{}, HTML and XML},
+publisher ={Addison-Wesley},
+year = 1999}
+
+@Book{PPerl,
+author ={{Wall, Larry \& Christiansen, Tom \& Schuartz, Randal}},
+title ={Programming Perl},
+publisher ={{O'Reilly \& Associates, Inc.}},
+}
+
+@Book{LPerl,
+author ={{Christiansen, Tom \& Schuartz, Randal}},
+title ={Learning Perl},
+publisher ={{O'Reilly \& Associates, Inc.}},
+}
+
+@Book{PCook,
+author ={{Christiansen, Tom \& Torkington, Nathan}},
+title ={Perl Cookbook},
+publisher ={{O'Reilly \& Associates, Inc.}},
+year = 1999}
+
+@Book{PQuick,
+author ={{Vromans, Johan}},
+title ={{Quick Reference Guide --- Programming Perl 5.004}},
+publisher ={{Squirrel Consultancy}}}}
+
+@Book{WebGraphix,
+author ={Wallace, Shawn P.},
+title ={Programming Web Graphics},
+publisher ={{O'Reilly \& Associates, Inc.}},
+year = 1999}
+
+@Book{LComp,
+author ={{Goossens, Michel \& Mittelbach, Frank \& Samarin, Alexander}},
+title ={The \LaTeX{} Companion},
+publisher ={Addison-Wesley},
+year = 1999}
+
+@Book{ISO2788,
+publisher ={International Organization for Standardization},
+title ={ISO 2788}}
+
+@Book{CSS1,
+publisher ={World Wide Web Consortium},
+title ={Cascading Style Sheets, Level 1 recommendation},
+year = {17 December 1996},
+note={http://www.w3.org/TR/REC-CSS1-961217}}
+
+@Book{CSS2,
+publisher ={World Wide Web Consortium},
+title ={Cascading Style Sheets, Level 2 recommendation},
+year = {12 May 1998},
+note={http://www.w3.org/TR/1998/REC-CSS2-19980512}}
+
+@Book{HTML,
+publisher = {World Wide Web Consortium},
+title ={HyperText Markup Language Version 4.0 (HTML) recommendation},
+year = {24 April 1998},
+note={http://www.w3.org/TR/1998/REC-html40-19980424}}
+
+@Book{XML,
+publisher = {World Wide Web Consortium},
+title ={eXtended Markup Language (XML) version 1.0 recommendation},
+year = {10 February 1998},
+note={http://www.w3.org/TR/1998/REC-xml-19980210.html/}}
+
+@Article{JScheme,
+title = {...}}
+
+@Article{DT,
+title = {XML::DT},
+year = {1998},
+author={{Almeida, José João \& Ramalho, José Carlos}}}
+
+@Article{DT2,
+title = {XML::DT level 2},
+year = {2000},
+author={{Almeida, José João \& Ramalho, José Carlos \& Simões, Alberto Manuel}}}
+
+@Book{XPATH,
+publisher = {World Wide Web Consortium},
+title = {XML Path Language (XPath) Version 1.0 recommendation},
+year = {16 November 1999},
+note = {http://www.w3.org/TR/1999/REC-xpath-19991116 }}

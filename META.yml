@@ -1,0 +1,14 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Biblio-Catalog
+version:      0.12
+version_from: Catalog.pm
+installdirs:  site
+requires:
+    Data::Dumper:                  2.10
+    DB_File:                       1.804
+    XML::DT:                       0.19
+    XML::XPath:                    1.12
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17
